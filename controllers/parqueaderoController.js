@@ -2,7 +2,7 @@ import express from 'express';
 import ParqueaderoService from '../services/parqueaderoServicio.js'
 import { ParqueaderoDTO } from '../dtos/parqueaderoDTO.js'
 import { IngresoVehiculoDTO } from '../dtos/registroEntradaDTO.js'
-import { Salidadto } from '../dtos/registroSalidaDTO.js'
+//import { SalidaDTO } from '../dtos/registroSalidaDTO.js'
 
 import authJWT from '../middlewares/authJWT.js'
 
